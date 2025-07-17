@@ -1,1 +1,1 @@
-# HACK-CAMERA https://miniature-goldfish-7vr7gj4jp4xvhx5vj.github.dev/extension-auth-callback?state=e1adae65a3c747782f8606b8321fb29f&error=access_denied&error_description=AADSTS90123%3A+The+token+can%27t+be+issued+because+the+identity+or+claim+issuance+provider+denied+the+request.+Response+code%3A+access_denied.+Trace+ID%3A+a8dd8268-2d47-4c0f-8db6-04cb3d7b1000+Correlation+ID%3A+82c2310a-e1bf-4540-b4d7-b18464168338+Timestamp%3A+2025-07-17+05%3A15%3A33Z
+# HACK-CAMERA
